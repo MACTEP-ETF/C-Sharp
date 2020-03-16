@@ -5,7 +5,7 @@ Learning from beginning. Let's start...
 1. Programm code. -> 2. IL (intermediate language). -> 3. Native code.  
 
 ## APPLICATION Structure in C#
-Assembly (Dinamic Link Library (DLL) or EXE):
+- Assembly (Dinamic Link Library (DLL) or EXE):
   - Namespaces:  
     - Classes:  
       - Data  
