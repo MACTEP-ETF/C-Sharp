@@ -5,14 +5,14 @@ Learning from beginning. Let's start...
 1. Programm code. -> 2. IL (intermediate language). -> 3. Native code.  
 
 ## Structure of C#
-Assembly (Dinamic Link Library (DLL) or EXE):
-- Namespaces:
-  - Classes:
-    - Data
-    - Methods
-      For example:
-      Class - Car; 
-      Data - color, model, make; 
-      Methods - start(), move().
+- Assembly (Dinamic Link Library (DLL) or EXE):  
+  - Namespaces:  
+    - Classes:  
+      - Data  
+      - Methods  
+        For example:  
+        Class - Car;  
+        Data - color, model, make;  
+        Methods - start(), move().  
 
 ## Assembly
