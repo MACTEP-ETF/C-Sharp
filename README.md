@@ -12,4 +12,14 @@ Learning from beginning. Let's start...
       - Methods  
         For example: Class - Car; Data - color, model, make; Methods - start(), move().  
 
-## Next...
+## Data types
+- **sbyte x** – -127 to 128. 
+- **short x** – -32767 to 32767. 
+- **int x** – -2,147,383,648 to 2,147,383,647.
+- **long x** – very big number.  
+- **float x** – 15.99f – write "f" at the end, atherwise C# will be use double datatype!  
+- **double x** – 1.9.  
+- **bool x** – true/false. Boolean datatype.  
+- **char x** – "a".  
+- **string x** – "Name".  
+
