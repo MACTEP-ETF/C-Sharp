@@ -3,8 +3,9 @@ Learning from beginning. Let's start...
 
 ## Shortcuts
 - **Ctrl+x** – delete a row.  
-- **try + TAB** – this is a code snippet to get try&catch codeblock.    
+- **Alt + Enter** – to use the ReSharp advantages.    
 - **cw + TAB** – this is a code snippet to get **Console.WriteLine();**.    
+- **try + TAB** – this is a code snippet to get try&catch codeblock.    
 
 ## From C# to native code
 1. Programm code. -> 2. IL (intermediate language). -> 3. Native code.  
