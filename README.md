@@ -1,6 +1,11 @@
 # C-Sharp
 Learning from beginning. Let's start...
 
+## Tips
+- Avoid using one language to write another language/format via strings. Avoid using C# strings to create:  
+  JavaScript, XML, HTML, JSON, CSS.  
+- Leverage ligraries.  
+
 ## Shortcuts
 - **Ctrl+x** – delete a row.  
 - **Alt + Enter** – to use the ReSharp advantages.    
