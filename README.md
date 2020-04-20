@@ -5,6 +5,7 @@ Learning from beginning. Let's start...
 - Avoid using one language to write another language/format via strings. Avoid using C# strings to create:  
   JavaScript, XML, HTML, JSON, CSS.  
 - Leverage ligraries.  
+- **One** language per file.  
 
 ## Shortcuts
 - **Ctrl+x** – delete a row.  
