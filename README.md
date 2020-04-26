@@ -27,7 +27,7 @@ Learning from beginning. Let's start...
 ## Data types
 - **sbyte x** – -127 to 128. 
 - **short x** – -32767 to 32767. 
-- **int x** – -2,147,383,648 to 2,147,383,647.
+- **int x** – -2,147,483,648 to 2,147,483,647.
 - **long x** – very big number.  
 - **float x** – 15.99f – write "f" at the end, otherwise C# will be use double datatype!  
 - **double x** – 1.9.  
