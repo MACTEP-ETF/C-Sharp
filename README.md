@@ -35,3 +35,6 @@ Learning from beginning. Let's start...
 - **char x** – "a".  
 - **string x** – "Name".  
 
+## Non-primitive Types
+- **Strings are immutable** – once you create them, you cannot change them.  
+- **Verbatim Strings** – string path = @"c:\projects\procect1folder1".  
