@@ -52,3 +52,8 @@ Overall:
 - You need to allocate memory;  
 - Memory allocated on heap;  
 - Garbage collected by CLR.  
+
+## Conditional Statements
+- if / else.  
+- Switch / case.  
+- Conditional operator: **a ? b : c**.  
