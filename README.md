@@ -35,15 +35,18 @@ Learning from beginning. Let's start...
 - **char x** – "a".  
 - **string x** – "Name".  
 
-## Non-primitive Types
+## Primitive Types are Value Types
+Structures, char, int, float.  
+Overall:  
+- Allocated on stack;  
+- Memory allocation done automatically;  
+- Immediately removed when out of scope.  
+
+
+## Non-primitive Types are Reference Types
 - **Strings are immutable** – once you create them, you cannot change them.  
 - **Verbatim Strings** – string path = @"c:\projects\procect1folder1".  
-- **Value Types** – Structures:  
-  - Allocated on stack;  
-  - Memory allocation done automatically;  
-  - Immediately removed when out of scope.  
-- **Reference Types** – Classes:  
-  - You need to allocate memory;  
+Overall:  
+- You need to allocate memory;  
   - Memory allocated on heap;  
   - Garbage collected by CLR.  
-  
